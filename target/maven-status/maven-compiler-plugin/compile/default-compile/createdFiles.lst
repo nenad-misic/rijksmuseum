@@ -1,0 +1,11 @@
+Rijksmuseum\Model\RateEvent.class
+Rijksmuseum\DTO\PhonePath.class
+Rijksmuseum\Model\Beacon.class
+Rijksmuseum\CL\BeaconController.class
+Rijksmuseum\DAO\BeaconRepository.class
+Rijksmuseum\DTO\LongestVisitBeacons.class
+Rijksmuseum\BLL\BeaconService.class
+Rijksmuseum\DTO\MostPopularBeacons.class
+Rijksmuseum\DTO\MostPersistentVisitors.class
+Rijksmuseum\Model\Event.class
+Rijksmuseum\App.class

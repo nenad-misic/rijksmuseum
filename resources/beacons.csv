@@ -1,0 +1,6 @@
+BEACON_ID, BEACON_NAME, LOCATION_X, LOCATION_Y, AUDIO_FILE_PATH
+1,"The Night Watch",10.2,10.2,"/audio/beacon/1/description.mp3"
+2,"The Anatomy Lesson of Dr. Nicolaes Tulp",15.8,12.1,"/audio/beacon/2/description.mp3"
+3,"The Return of the Prodigal Son",28.4,34.6,"/audio/beacon/3/description.mp3"
+4,"Syndics of the Drapers' Guild",44.5,34.6,"/audio/beacon/4/description.mp3"
+5,"The Storm on the Sea of Galilee",58.7,36.4,"/audio/beacon/5/description.mp3"
